@@ -9,7 +9,7 @@ These libraries make interacting with the Vorpal API easier and safer. We recomm
 Vorpal Libraries provide the strongest security level.
 
  - [Vorpal Library (Public)](https://github.com/VorpalAuth/VorpalLibrary-Public) [C++]
- - Vorpal Extended Library [C, C++] [Coming soon...]
+ - Vorpal Extended Library [C, [C++](https://github.com/VorpalAuth/VorpalLibrary-CPP-Public)] [Coming soon...]
 
 ## Premade Vorpal API SDKs
 These SDKs do some of the work for you, however they are nowhere as safe as the libraries either due to language limitations or other reasons.
