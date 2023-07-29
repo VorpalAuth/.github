@@ -1,6 +1,6 @@
 # Vorpal Authentication
 
-Everything that you need to start developing in the Vorpal Authentication platform can be found in this github organization.
+Everything that you need to start developing on the Vorpal Authentication platform can be found in this github organization.
 
 
 
